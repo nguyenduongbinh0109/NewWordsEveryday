@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewWordsEveryday.MVC", "NewWordsEveryday.MVC\NewWordsEveryday.MVC.csproj", "{548D6308-89A8-4446-A7D5-A357EF8B0FD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewWordsEveryday.MVC", "NewWordsEveryday.MVC\NewWordsEveryday.MVC.csproj", "{548D6308-89A8-4446-A7D5-A357EF8B0FD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewWordsEveryday.Services", "NewWordsEveryday.Services\NewWordsEveryday.Services.csproj", "{3C770168-6DF2-4252-8174-A79C0D8C3618}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewWordsEveryday.Services", "NewWordsEveryday.Services\NewWordsEveryday.Services.csproj", "{3C770168-6DF2-4252-8174-A79C0D8C3618}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewWordsEveryday.Shared", "NewWordsEveryday.Shared\NewWordsEveryday.Shared.csproj", "{6E50568F-FD38-492C-B141-95245DEACA83}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{C0389A14-8F43-48B6-A602-E2F3D8798EEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewWordsEveryday.Shared", "NewWordsEveryday.Shared\NewWordsEveryday.Shared.csproj", "{6E50568F-FD38-492C-B141-95245DEACA83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +27,6 @@ Global
 		{6E50568F-FD38-492C-B141-95245DEACA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E50568F-FD38-492C-B141-95245DEACA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E50568F-FD38-492C-B141-95245DEACA83}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C0389A14-8F43-48B6-A602-E2F3D8798EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C0389A14-8F43-48B6-A602-E2F3D8798EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C0389A14-8F43-48B6-A602-E2F3D8798EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C0389A14-8F43-48B6-A602-E2F3D8798EEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
